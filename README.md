@@ -118,3 +118,6 @@ Successfully implemented a production-ready Azure Backup & Disaster Recovery env
 
 ### GitHub
 https://github.com/Akamitt009
+
+### LinkedIn
+https://www.linkedin.com/in/amit-kumar-657255232/
